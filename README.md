@@ -38,13 +38,6 @@ Every maker gets access to our **exclusive AI Agent Suite** designed to give you
 
 ---
 
-## 🛠️ Tech Stack
-* **Frontend:** Vue.js / Nuxt (High performance, SEO optimized)
-* **Backend:** Python / FastAPI (Async, scalable)
-* **AI Engine:** Custom LLM Chains + Browser Agents (Puppeteer/Selenium)
-* **Database:** PostgreSQL + Redis (Real-time auction updates)
-
----
 
 ## 🎯 Use Cases
 * **For Indie Hackers:** Launch your MVP and auction "Founder Access" tokens to fund your runway.
@@ -56,35 +49,6 @@ Every maker gets access to our **exclusive AI Agent Suite** designed to give you
 ## 📦 Getting Started
 *Note: The core platform is closed-source, but we provide an open SDK for building Agents.*
 
-1.  **Clone the SDK:**
-    ```bash
-    git clone [https://github.com/yourusername/qpost-sdk.git](https://github.com/yourusername/qpost-sdk.git)
-    ```
-2.  **Install Dependencies:**
-    ```bash
-    pip install qpost-agent
-    ```
-3.  **Deploy your first Agent:**
-    ```python
-    from qpost import Agent
-
-    # Initialize your War Room Agent
-    bot = Agent(api_key="YOUR_KEY")
-    
-    # Run a Reputation Scan
-    report = bot.defense.scan_sentiment(brand="MyStartup")
-    print(report)
-    ```
-
----
-
-## 🤝 Contributing
-We welcome "Grey Hat" thinkers and growth engineers. 
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
 
 ---
 
