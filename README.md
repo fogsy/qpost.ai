@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Status](https://img.shields.io/badge/status-live-brightgreen.svg) ![AI](https://img.shields.io/badge/AI-Powered-purple.svg)
 
-**[Live Demo](https://qpost.ai) | [Join the Community](https://qpost.ai/community)**
+**[Live Demo](https://qpost.ai) | [Join the Community](https://qpost.ai/sign-up)**
 
 ## ⚡ What is QPost?
 **QPost.ai** is not just another directory. It is a **Launchpad + Auction House + War Room** for the next generation of AI founders. 
